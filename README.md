@@ -3,6 +3,7 @@
 ![GitHub Discussions](https://img.shields.io/github/discussions/time4tea/gopro-dashboard-overlay?style=for-the-badge)
 ![PyPI](https://img.shields.io/pypi/v/gopro-overlay?style=for-the-badge)
 
+Building off the back of this project, added Docker container to automate build + video processing with default options.
 
 Discuss on [GitHub Discussions](https://github.com/time4tea/gopro-dashboard-overlay/discussions)
 
